@@ -1,2 +1,2 @@
-# INGC
-Inertial Navigation Control and Guidance in Missiles
+# Inertial Navigation Control and Guidance in Missiles
+
